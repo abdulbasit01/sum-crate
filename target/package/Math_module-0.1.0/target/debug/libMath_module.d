@@ -1,0 +1,1 @@
+/home/abdulbasit/rust-programming/modeules/Maths/target/package/Math_module-0.1.0/target/debug/libMath_module.rlib: /home/abdulbasit/rust-programming/modeules/Maths/target/package/Math_module-0.1.0/src/lib.rs

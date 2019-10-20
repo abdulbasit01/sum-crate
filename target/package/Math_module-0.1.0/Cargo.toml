@@ -15,5 +15,7 @@ edition = "2018"
 name = "Math_module"
 version = "0.1.0"
 authors = ["abdulbasit01 <abdulbasit14827@gmail.com>"]
+description = "Maths functions"
+license = "MIT"
 
 [dependencies]
